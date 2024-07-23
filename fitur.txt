@@ -1,2 +1,5 @@
 register
 login
+admin
+   -crud
+   -spk ahp
